@@ -13,6 +13,8 @@ OR
 
 ### architecture (can be a text file with description, or a image, PPT, etc.)
 
+![function of the architecture](function.png)
 
+![dataflow of the architecture](dataflow.png)
 
 ### milestones (what's the schedule you plan to implement and finish your project?)
