@@ -11,6 +11,7 @@ The project will include three main features:
 OR
 - sentiment analysis for sentence sumbitted through our frontend server
 
+---------------------------------------------------------
 ### architecture (can be a text file with description, or a image, PPT, etc.)
 
 ![function of the architecture](function.png)
@@ -25,6 +26,7 @@ Some of the component here will be containerized if possible
 
 ![dataflow of the architecture](dataflow.png)
 
+---------------------------------------------------------
 ### milestones (what's the schedule you plan to implement and finish your project?)
 
 11 Oct: Decided on the topic, i.e. the application to be developed
